@@ -1,0 +1,15 @@
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX18\obj\Debug\net6.0\EX18.csproj.AssemblyReference.cache
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX18\obj\Debug\net6.0\EX18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX18\obj\Debug\net6.0\EX18.AssemblyInfoInputs.cache
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX18\obj\Debug\net6.0\EX18.AssemblyInfo.cs
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX18\obj\Debug\net6.0\EX18.csproj.CoreCompileInputs.cache
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX18\bin\Debug\net6.0\EX18.exe
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX18\bin\Debug\net6.0\EX18.deps.json
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX18\bin\Debug\net6.0\EX18.runtimeconfig.json
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX18\bin\Debug\net6.0\EX18.dll
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX18\bin\Debug\net6.0\EX18.pdb
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX18\obj\Debug\net6.0\EX18.dll
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX18\obj\Debug\net6.0\refint\EX18.dll
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX18\obj\Debug\net6.0\EX18.pdb
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX18\obj\Debug\net6.0\EX18.genruntimeconfig.cache
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX18\obj\Debug\net6.0\ref\EX18.dll
