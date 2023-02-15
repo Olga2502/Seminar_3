@@ -1,0 +1,15 @@
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX22\bin\Debug\net6.0\EX22.exe
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX22\bin\Debug\net6.0\EX22.deps.json
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX22\bin\Debug\net6.0\EX22.runtimeconfig.json
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX22\bin\Debug\net6.0\EX22.dll
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX22\bin\Debug\net6.0\EX22.pdb
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX22\obj\Debug\net6.0\EX22.csproj.AssemblyReference.cache
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX22\obj\Debug\net6.0\EX22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX22\obj\Debug\net6.0\EX22.AssemblyInfoInputs.cache
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX22\obj\Debug\net6.0\EX22.AssemblyInfo.cs
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX22\obj\Debug\net6.0\EX22.csproj.CoreCompileInputs.cache
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX22\obj\Debug\net6.0\EX22.dll
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX22\obj\Debug\net6.0\refint\EX22.dll
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX22\obj\Debug\net6.0\EX22.pdb
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX22\obj\Debug\net6.0\EX22.genruntimeconfig.cache
+C:\Users\OKrug\OneDrive\Рабочий стол\SEMINAR3\EX22\obj\Debug\net6.0\ref\EX22.dll
